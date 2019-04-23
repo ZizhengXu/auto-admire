@@ -1,6 +1,6 @@
 # Wechat Auto Admire
 
-start point: https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw)
+(problem setup) reading materials:  https://mp.weixin.qq.com/s/EssVIqNXLDWn_HubHzJ8Mw
 
 ### environment：
 <br>
